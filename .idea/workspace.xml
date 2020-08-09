@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8aef7053-ac66-4a92-86c2-cd0235ecb9e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/nginx-site-ssl.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/nginx-site-ssl.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/nginx-site.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/nginx-site.conf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/conf/nginx-site-ssl.conf">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+            <state relative-caret-position="42">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -35,10 +33,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/index.php" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/scripts/build.sh" />
         <option value="$PROJECT_DIR$/conf/nginx-site.conf" />
         <option value="$PROJECT_DIR$/conf/nginx-site-ssl.conf" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -65,9 +63,9 @@
       <path value="$PROJECT_DIR$/src/vendor/phpmyadmin/shapefile" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="306" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="512" />
   </component>
@@ -82,11 +80,6 @@
             <path>
               <item name="docker-project-example" type="b2602c69:ProjectViewProjectNode" />
               <item name="docker-project-example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docker-project-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docker-project-example" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,15 +116,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596952992862</updated>
-      <workItem from="1596952994136" duration="3270000" />
+      <workItem from="1596952994136" duration="3741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3270000" />
+    <option name="totallyTimeSpent" value="3741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="137" width="1382" height="512" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -185,13 +178,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/build.sh">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -211,8 +197,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/nginx-site-ssl.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
+        <state relative-caret-position="1659">
           <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
