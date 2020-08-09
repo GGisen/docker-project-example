@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aef7053-ac66-4a92-86c2-cd0235ecb9e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/conf/nginx-site-ssl.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/nginx-site.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/nginx-site.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/nginx-site-ssl.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/nginx-site.conf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="84" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="84" />
+            <state relative-caret-position="378">
+              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/conf/nginx-site-ssl.conf">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/nginx.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="17" column="37" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="37" />
+            <state relative-caret-position="668">
+              <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -37,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf/nginx-site.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="105">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -55,9 +58,10 @@
         <option value="$PROJECT_DIR$/scripts/build.sh" />
         <option value="$PROJECT_DIR$/errors/404.html" />
         <option value="$PROJECT_DIR$/src/laravel/index.php" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/conf/nginx-site-ssl.conf" />
         <option value="$PROJECT_DIR$/conf/nginx-site.conf" />
+        <option value="$PROJECT_DIR$/conf/nginx.conf" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -102,6 +106,11 @@
               <item name="docker-project-example" type="b2602c69:ProjectViewProjectNode" />
               <item name="docker-project-example" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="docker-project-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-project-example" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -142,12 +151,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596952992862</updated>
-      <workItem from="1596952994136" duration="11111000" />
+      <workItem from="1596952994136" duration="12512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11111000" />
+    <option name="totallyTimeSpent" value="12512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -231,24 +240,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/conf/nginx-site-ssl.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="84" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="84" />
+        <state relative-caret-position="357">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/nginx-site.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="105">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf/nginx-site-ssl.conf">
+    <entry file="file://$PROJECT_DIR$/conf/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="668">
+          <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
         </state>
       </provider>
     </entry>
