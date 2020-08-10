@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf/nginx-site.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+            <state relative-caret-position="1080">
+              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
             </state>
           </provider>
         </entry>
@@ -143,12 +143,12 @@
       <option name="presentableId" value="Default" />
       <updated>1596952992862</updated>
       <workItem from="1596952994136" duration="13340000" />
-      <workItem from="1597039598117" duration="6321000" />
+      <workItem from="1597039598117" duration="7179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19661000" />
+    <option name="totallyTimeSpent" value="20519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="249" y="75" width="1834" height="736" extended-state="0" />
@@ -231,8 +231,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/nginx-site.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+        <state relative-caret-position="1080">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
